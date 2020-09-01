@@ -2,6 +2,7 @@ body {
     margin: 0;
     background: #abebff;
     color: #1b1b1b;
+    overflow: hidden;
 }
 
 ul {
@@ -50,4 +51,14 @@ header ul li a {
 
 .details {
     text-align: center;
+}
+
+.photos {
+    display: flexbox;
+
+    padding: 2em;
+}
+
+.photos img {
+    width: 25rem;
 }
