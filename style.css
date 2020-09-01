@@ -62,3 +62,7 @@ h2 {
 .photos img {
     width: 25rem;
 }
+
+.info {
+    text-align: center;
+}
